@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 
 Hello world 
 hello World
 hello World hello World
+=======
+Hello
+Hello world 23
+hello World
+hello World
+hello World
+>>>>>>> dev
